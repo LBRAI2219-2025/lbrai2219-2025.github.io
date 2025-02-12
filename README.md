@@ -3,7 +3,7 @@
 ## Ressources internes
 
 - **Github organisation** : [https://github.com/LBRAI2219-2025](https://github.com/LBRAI2219-2025)
-- **Ressources et instruction** : [https://github.com/LBRAI2219-2025/0_ressources](https://github.com/LBRAI2219-2025/0_ressources)
+- **Ressources et instruction** : [https://github.com/LBRAI2219-2025/ressources](https://github.com/LBRAI2219-2025/ressources)
 - **Codes partagés** : [https://github.com/LBRAI2219-2025/codes_partages](https://github.com/LBRAI2219-2025/codes_partages)
 
 ## Ressources externes
