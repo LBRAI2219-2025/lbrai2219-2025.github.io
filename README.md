@@ -2,9 +2,9 @@
 
 ## Ressources internes
 
-- **Github organisation** : [https://github.com/LBRAI2219-2023](https://github.com/LBRAI2219-2023)
-- **Ressources et instruction** : [https://github.com/LBRAI2219-2023/0_ressources](https://github.com/LBRAI2219-2023/0_ressources)
-- **Codes partagés** : [https://github.com/LBRAI2219-2023/codes_partages](https://github.com/LBRAI2219-2023/codes_partages)
+- **Github organisation** : [https://github.com/LBRAI2219-2025](https://github.com/LBRAI2219-2025)
+- **Ressources et instruction** : [https://github.com/LBRAI2219-2025/0_ressources](https://github.com/LBRAI2219-2025/0_ressources)
+- **Codes partagés** : [https://github.com/LBRAI2219-2025/codes_partages](https://github.com/LBRAI2219-2025/codes_partages)
 
 ## Ressources externes
 
